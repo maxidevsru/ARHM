@@ -1,0 +1,11 @@
+{
+  "name": "arhm",
+  "version": "1.0.0",
+  "description": "Arkham Intel graph — локальный просмотр",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js",
+    "build:en": "node build-en-page.js",
+    "build:pages": "node build-gh-pages.js"
+  }
+}
